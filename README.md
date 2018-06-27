@@ -1,4 +1,4 @@
-# Drug-Activity-Prediction-Dorothea-Dataset-
+# Drug-Activity-Prediction-Dorothea-Dataset
 Python Program for Drug Activity Prediction using Dimensionality Reduction and Classification
 
 ### F1 Score: 0.7164
